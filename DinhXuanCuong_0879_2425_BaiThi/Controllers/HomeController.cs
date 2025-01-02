@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using System.ComponentModel.DataAnnotations;
 using DinhXuanCuong_0879_2425_BaiThi.Models;
 
 namespace DinhXuanCuong_0879_2425_BaiThi.Controllers;
