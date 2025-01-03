@@ -45,18 +45,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Bogus": {
-              "target": "Package",
-              "version": "[35.6.1, )"
-            },
-            "EPPLUS": {
-              "target": "Package",
-              "version": "[7.3.0, )"
-            },
-            "MailKit": {
-              "target": "Package",
-              "version": "[4.8.0, )"
-            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -96,14 +84,6 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.5, )"
-            },
-            "X.PagedList.Mvc.Core": {
-              "target": "Package",
-              "version": "[10.5.7, )"
-            },
-            "X.pagedList.mvc": {
-              "target": "Package",
-              "version": "[8.0.7, )"
             }
           },
           "imports": [
