@@ -15,5 +15,6 @@ namespace DinhXuanCuong_0879_2425_BaiThi.Data
         }
 
         public DbSet<DinhXuanCuong_0879_2425_BaiThi.Models.Person> Person { get; set; } = default!;
+        public DbSet<DinhXuanCuong_0879_2425_BaiThi.Models.Employee> Employee { get; set; } = default!;
     }
 }
